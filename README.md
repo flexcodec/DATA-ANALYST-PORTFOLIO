@@ -1,17 +1,64 @@
-# DATA-ANALYST-PORTFOLIO
+# Welcome to My Data Analytics Portfolio
 
-I am a data analyst with expertise in transforming data into actionable insights to support business decisions. My technical skill set includes proficiency in tools and programming languages such as Power BI, Tableau, Excel, Python, SQL, and R. 
-I have a deep understanding of data analytics techniques, including dashboard creation, report generation, data modeling, data cleaning, and statistical analysis.
+I am **Martin François Eyango**, a results-oriented data analyst with expertise in data analysis, visualization, and programming. My mission is to transform data into actionable insights, craft compelling dashboards, and deliver impactful solutions.
 
-In this portfolio, you will find examples of projects where I have developed dynamic dashboards and reports using tools like Power BI, Tableau, and Excel.
-These projects demonstrate my ability to present complex data in an intuitive and visually compelling manner, empowering decision-makers with clear and concise insights.
+This portfolio showcases a curated selection of my projects, highlighting my proficiency with tools such as Excel, Power BI, Python, and data storytelling techniques.
 
-Additionally, I have included programming projects using Python, SQL, and R that highlight my ability to analyze large datasets, perform data wrangling, and merge information from diverse sources to create comprehensive data solutions. These projects underscore my technical skills and my focus on accuracy and efficiency in data handling.
+---
 
-Beyond my technical capabilities, I excel in critical thinking and problem-solving. I approach each data analysis challenge strategically, identifying key opportunities and addressing potential issues to deliver optimal results.
+## Explore My Projects
 
-I invite you to explore my portfolio to see how I bring data to life. Please feel free to reach out to discuss my qualifications or to collaborate on new and exciting opportunities.
+### **Excel Projects**
 
-Thank you for visiting my portfolio
+- **[ExpressMart Sales Performance Analysis](https://www.canva.com/design/DAGT4_P9xdY/tvhl7sbFOs7Z_jdRgPtD_A/edit?utm_content=DAGT4_P9xdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+  A deep dive into sales data to uncover trends, patterns, and actionable business insights.
 
-I look forward to connecting with you!
+- **ZENO-MART Customer Transaction Analysis**  
+  Detailed examination of customer transactions to enhance understanding of behavior and improve outcomes.
+
+### **Power BI Projects**
+
+- **[Vertex Mobile Net: Telecom Churn Analytics](https://www.canva.com/design/DAGX5YpgS_4/k2VkZkg-JDtTPV21WJSEsw/edit?utm_content=DAGX5YpgS_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+  An interactive dashboard analyzing customer churn, enabling businesses to reduce attrition and improve retention strategies.
+
+- **[Nebulon Financial Dashboard](https://www.canva.com/design/DAGT44MTZc8/531e1Ndp5uocW27E-h4t7A/edit?utm_content=DAGT44MTZc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+  Dynamic financial data visualizations that highlight critical metrics and patterns for strategic decision-making.
+
+- **Biliv-Augmenta Employee Attrition Dashboard**  
+  A detailed analysis of employee attrition trends, providing actionable insights for HR management.
+
+### **Python Projects**
+
+- **Data Analyst Job Simulation @Quantium**  
+  Using Python for predictive modeling and data analysis, this project identifies key attrition drivers to enhance workforce planning.
+
+---
+
+## What to Expect
+
+Each project is crafted to deliver data-driven insights through visually appealing dashboards and reports. From analyzing business performance to predictive modeling, my work emphasizes clarity, usability, and storytelling.
+
+All projects are authored by **Martin François Eyango** under the **ONLY QUALITY DATA** brand, reflecting my dedication to excellence in data analytics and visualization.
+
+Thank you for visiting, and I invite you to dive into these projects to see how data can drive impactful outcomes!
+
+---
+
+## Skills Highlight
+
+- **Data Analysis & Visualization**: Proficient in Excel, Power BI, and Python, transforming data into actionable insights.
+- **Dashboard Design**: Expertise in creating interactive dashboards that simplify complex datasets.
+- **Predictive Modeling**: Skilled in applying machine learning techniques for advanced data predictions.
+- **Storytelling with Data**: Exceptional ability to present data findings through engaging narratives and visuals.
+
+---
+
+## Connect with Me
+
+- 📧 **Email**: [flexcodec@gmail.com](mailto:flexcodec@gmail.com)
+- 🌐 **LinkedIn**: [View My Profile](https://www.linkedin.com/)
+- 🌟 **Project Visuals**: Explore detailed dashboards and visualizations through the links provided.
+
+---
+
+Let’s connect and discuss how I can bring value to your next data-driven initiative!
