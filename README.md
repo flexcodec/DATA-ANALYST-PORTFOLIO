@@ -24,13 +24,26 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 - **[Nebulon Financial Dashboard](https://www.canva.com/design/DAGT44MTZc8/531e1Ndp5uocW27E-h4t7A/edit?utm_content=DAGT44MTZc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
   Dynamic financial data visualizations that highlight critical metrics and patterns for strategic decision-making.
 
-- **Biliv-Augmenta Employee Attrition Dashboard**  
+- **[Biliv-Augmenta Employee Attrition Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Biliv-Augmenta%20Employee%20Attrition%20Analysis%20Project)**  
   A detailed analysis of employee attrition trends, providing actionable insights for HR management.
 
 ### **Python Projects**
 
-- **Data Analyst Job Simulation @Quantium**  
+- **[Data Analyst Job Simulation @Quantium](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/PYTHON)**  
   Using Python for predictive modeling and data analysis, this project identifies key attrition drivers to enhance workforce planning.
+
+### **SQL Projects**
+
+- **[MySQL Data Cleaning & Exploratory Data Analysis (EDA)]()**
+  A comprehensive data cleaning and exploration project using MySQL. The process involved:
+
+Removing duplicate values.
+
+Standardizing data formats (e.g., dates, trimming spaces).
+
+Handling missing values.
+
+Performing exploratory data analysis (EDA) to uncover trends and patterns in layoff data.
 
 ---
 
