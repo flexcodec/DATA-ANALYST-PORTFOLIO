@@ -34,7 +34,7 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 
 ### **SQL Projects**
 
-- **[MySQL Data Cleaning & Exploratory Data Analysis (EDA)]()**
+- **[MySQL Data Cleaning & Exploratory Data Analysis (EDA)](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/MY%20SQL/LAYOFFS%20DATA%20CLEANING%20WITH%20MY%20SQL)**
   A comprehensive data cleaning and exploration project using MySQL. The process involved:
 
 Removing duplicate values.
