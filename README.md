@@ -69,7 +69,7 @@ Thank you for visiting, and I invite you to dive into these projects to see how 
 ## Connect with Me
 
 - 📧 **Email**: [flexcodec@gmail.com](mailto:flexcodec@gmail.com)
-- 🌐 **LinkedIn**: [View My Profile](https://www.linkedin.com/)
+- 🌐 **LinkedIn**: [View My Profile](https://www.linkedin.com/in/martin-francois-eyango-0b3019a5/)
 - 🌟 **Project Visuals**: Explore detailed dashboards and visualizations through the links provided.
 
 ---
