@@ -30,7 +30,7 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 - **[Biliv-Augmenta Employee Attrition Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Biliv-Augmenta%20Employee%20Attrition%20Analysis%20Project)**  
   A detailed analysis of employee attrition trends, providing actionable insights for HR management.
 
-- **[POWER BI/Data Professional Survey Breakdown Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Data%20Professional%20Survey%20Breakdown%20Project)**
+- **[Data Professional Survey Breakdown Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Data%20Professional%20Survey%20Breakdown%20Project)**
   Provides an insightful breakdown of survey data collected from data professionals.
 
 ### **Python Projects**
