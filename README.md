@@ -16,6 +16,9 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 - **ZENO-MART Customer Transaction Analysis**  
   Detailed examination of customer transactions to enhance understanding of behavior and improve outcomes.
 
+- **[Bike Purchasing Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/EXCEL/Bike%20Purchasing%20project)**
+  Designed to help businesses understand the factors influencing bike purchases, such as marital status, education level, income, and commute distance.
+
 ### **Power BI Projects**
 
 - **[Vertex Mobile Net: Telecom Churn Analytics](https://www.canva.com/design/DAGX5YpgS_4/k2VkZkg-JDtTPV21WJSEsw/edit?utm_content=DAGX5YpgS_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
@@ -26,6 +29,9 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 
 - **[Biliv-Augmenta Employee Attrition Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Biliv-Augmenta%20Employee%20Attrition%20Analysis%20Project)**  
   A detailed analysis of employee attrition trends, providing actionable insights for HR management.
+
+- **[POWER BI/Data Professional Survey Breakdown Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Data%20Professional%20Survey%20Breakdown%20Project)**
+  Provides an insightful breakdown of survey data collected from data professionals.
 
 ### **Python Projects**
 
