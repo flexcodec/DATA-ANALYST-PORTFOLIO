@@ -13,7 +13,7 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 - **[ExpressMart Sales Performance Analysis](https://www.canva.com/design/DAGT4_P9xdY/tvhl7sbFOs7Z_jdRgPtD_A/edit?utm_content=DAGT4_P9xdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
   A deep dive into sales data to uncover trends, patterns, and actionable business insights.
 
-- **ZENO-MART Customer Transaction Analysis**  
+- **[ZENO-MART Customer Transaction Analysis](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/EXCEL/ZENO-MART-CUSTOMER-TRANSACTION)**  
   Detailed examination of customer transactions to enhance understanding of behavior and improve outcomes.
 
 - **[Bike Purchasing Dashboard](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/EXCEL/Bike%20Purchasing%20project)**
