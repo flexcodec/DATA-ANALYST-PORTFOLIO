@@ -38,6 +38,9 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 - **[Data Analyst Job Simulation @Quantium](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/PYTHON)**  
   Using Python for predictive modeling and data analysis, this project identifies key attrition drivers to enhance workforce planning.
 
+- **[BMI Calculator](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/PYTHON/BMI%20Calculator)**
+  A simple Python program to calculate Body Mass Index (BMI) and provide feedback on weight categories based on BMI values.
+
 ### **SQL Projects**
 
 - **[MySQL Data Cleaning & Exploratory Data Analysis (EDA)](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/MY%20SQL/LAYOFFS%20DATA%20CLEANING%20WITH%20MY%20SQL)**
