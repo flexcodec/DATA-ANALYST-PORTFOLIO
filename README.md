@@ -41,6 +41,9 @@ This portfolio showcases a curated selection of my projects, highlighting my pro
 - **[BMI Calculator](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/PYTHON/BMI%20Calculator)**
   A simple Python program to calculate Body Mass Index (BMI) and provide feedback on weight categories based on BMI values.
 
+- **[automatically sort files into categorized folders](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/PYTHON%20SCRIPT/automatically%20sort%20files%20into%20categorized%20folders)**
+  This Jupyter Notebook provides a simple script to automatically sort files into categorized folders based on their file extensions
+
 ### **SQL Projects**
 
 - **[MySQL Data Cleaning & Exploratory Data Analysis (EDA)](https://github.com/flexcodec/DATA-ANALYST-PORTFOLIO/tree/main/MY%20SQL/LAYOFFS%20DATA%20CLEANING%20WITH%20MY%20SQL)**
